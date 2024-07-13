@@ -1,0 +1,73 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:rgba(178,255,188,0,86);	
+}
+
+div.social {
+	margin-left: 90%;
+	border: 0px solid #0f799e;
+	margin-botton:10%;
+	margin-top:0%;
+}
+
+.nav{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+.nav li{
+	float:right;
+	width:160px;
+	margin-top:0px;
+	position:relative;
+}
+.nav li a{
+	background:#2e4f4f;
+	color:#fffbbb;
+	display:block;
+	padding: 7px 28px;
+	text-decoration: none;
+	border-top:4px solid red;
+}
+.nav li a:hover{
+	color:green;
+}
+
+div.container{
+	width: 760px;
+	height: 610px;
+	margin:50px auto;
+	font-family: 'Droid Serif', serif;
+	position:relative;
+}
+
+div.main{
+	width: 620px;
+	float:left;
+	padding: 10px 55px 40px;
+	background-color: rgba(187, 255, 184, 0.65);
+	border: 15px solid white;
+	box-shadow: 0 0 10px;
+	border-radius: 2px;
+	font-size: 13px;
+}
+
+input[type=text],[type=passowrd]{
+	backgroud-color: rgba(187, 255, 184, 0.65);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
